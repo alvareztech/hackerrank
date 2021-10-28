@@ -2,4 +2,4 @@
 
 ## Kotlin
 
-* [Day Of The Programmer](/blob/master/kotlin/src/main/kotlin/DayOfTheProgrammer.kt)
+* [Day Of The Programmer](/kotlin/src/main/kotlin/DayOfTheProgrammer.kt)
